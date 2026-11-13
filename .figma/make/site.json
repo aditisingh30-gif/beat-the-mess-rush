@@ -1,0 +1,10 @@
+{
+  "description": "Helps university students check mess crowds, wait times, menus, and food availability to plan meals and avoid queues, while staff can update live status.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
